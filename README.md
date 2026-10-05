@@ -98,7 +98,7 @@ engineer-salary-prediction/
 **1. Clone this repository:**
 
 ```bash
-git clone https://github.com/<your-username>/engineer-salary-prediction.git
+git clone https://github.com/SaiKarun-28/engineer-salary-prediction.git
 ```
 
 **2. Install dependencies:**
